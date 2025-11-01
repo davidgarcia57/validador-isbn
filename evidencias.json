@@ -1,0 +1,13 @@
+{
+  "coverage_lines": 81,
+  "coverage_branches": 75,
+  "tests_total": 19,
+  "tests_passed": 19,
+  "ci_status": "success",
+  "properties_implemented": 2,
+  "_comentarios": {
+    "fecha_ejecucion": "2025-11-01",
+    "entorno": "Windows 10, Python 3.13.2, pytest 8.4.2, pytest-cov 7.0.0",
+    "observaciones": "Todas las pruebas pasaron exitosamente. La cobertura total fue del 81% en líneas y ~75% en ramas. Las ramas no cubiertas corresponden principalmente a rutas de error (ValueError) dentro de normalize_isbn()."
+  }
+}
